@@ -22,7 +22,24 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 
 ## 🌟 Projects  
 - 🎬 [Theatre Booking System](#)  
-- 🔥 [Fire Detection System](#)  
+- 🔥 [Fire Detection System](#)
+
+- ### 🙋‍♀️ Sakshi
+- 🔧 Interested in development and system design  
+- 📚 Currently working on: Networking & IoT Projects  
+- 🎯 Goal: Master real-world project building  
+
+---
+
+## 🌟 Projects (by Sakshi)
+- 🎬 Theatre Ticket Booking System  
+- 🌐 SNMP Network Monitoring Project  
+- 🔥 Fire Detection IoT System  
+
+---
+
+### 📊 Sakshi’s GitHub Stats
+![Sakshi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiSharnagat&show_icons=true&theme=radical)
 
 ---
 
