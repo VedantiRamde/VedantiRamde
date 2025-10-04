@@ -23,8 +23,7 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 ## 🌟 Projects  
 - 🎬 [Theatre Booking System](#)  
 - 🔥 [Fire Detection System](#)
-
-- ### 🙋‍♀️ Sakshi
+### 🙋‍♀️ Sakshi
 - 🔧 Interested in development and system design  
 - 📚 Currently working on: Networking & IoT Projects  
 - 🎯 Goal: Master real-world project building  
