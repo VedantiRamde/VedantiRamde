@@ -67,4 +67,3 @@ Welcome to my GitHub Profile!
 - HTML & CSS
 - Git & GitHub
 
-![alt text](image.png)
