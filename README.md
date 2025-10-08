@@ -47,3 +47,27 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 - [GitHub](https://github.com/VedantiRamde)  
 - [LinkedIn](#)  
 - [Email](mailto:your.email@example.com)  
+
+This is my GitHub profile README file!
+
+| Name  | Skill     |
+|-------|-----------|
+| Sakshi| Python    |
+| Vedanti | HTML   |
+
+
+# 👋 Hi, I’m Sakshi
+
+Welcome to my GitHub Profile!
+
+## 🔧 Skills
+- Python
+- HTML & CSS
+- Git & GitHub
+
+## 📷 My Banner
+![Banner](https://your-link.com/banner.png)
+
+## 📫 How to reach me
+[Email me](mailto:sakshisharnagat194@gmail.com)
+
