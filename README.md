@@ -65,9 +65,4 @@ Welcome to my GitHub Profile!
 - HTML & CSS
 - Git & GitHub
 
-## 📷 My Banner
-![Banner](https://your-link.com/banner.png)
-
-## 📫 How to reach me
-[Email me](mailto:sakshisharnagat194@gmail.com)
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Flove%3Fl%3Djavascript%26o%3Ddesc%26s%3Dforks&psig=AOvVaw2z3V8cxmjacYohV1OmAYwp&ust=1760036346457000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPD28MKklZADFQAAAAAdAAAAABAE
