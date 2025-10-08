@@ -1,3 +1,5 @@
+![My Image](myimage.png)
+
 # Hi 👋, I'm Vedanti  
 I'm a passionate Full Stack Developer exploring AI & IoT.  
 
@@ -65,4 +67,4 @@ Welcome to my GitHub Profile!
 - HTML & CSS
 - Git & GitHub
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Flove%3Fl%3Djavascript%26o%3Ddesc%26s%3Dforks&psig=AOvVaw2z3V8cxmjacYohV1OmAYwp&ust=1760036346457000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPD28MKklZADFQAAAAAdAAAAABAE
+![alt text](image.png)
