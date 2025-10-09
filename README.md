@@ -1,4 +1,3 @@
-![My Image](myimage.png)
 
 # Hi 👋, I'm Vedanti  
 I'm a passionate Full Stack Developer exploring AI & IoT.  
@@ -72,5 +71,8 @@ Welcome to my GitHub Profile!
 - we are from sec C 
 - WE are here to make our project
 
-### image
+###  Vedanti Image
 ![My Profile Image](profile.png)
+
+### Sakshi image
+![My Image](myimage.png)
