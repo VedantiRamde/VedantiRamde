@@ -24,6 +24,10 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 ## 🌟 Projects  
 - 🎬 [Theatre Booking System](#)  
 - 🔥 [Fire Detection System](#)
+
+###  Vedanti Image
+![My Profile Image](profile.png)
+
 ---
 
 # 👋 Hi, I’m Sakshi
@@ -67,8 +71,17 @@ This is my GitHub profile README file!
 | Vedanti | HTML   |
 
 
+<<<<<<< HEAD
 ###  Vedanti Image
 ![My Profile Image](profile.png)
+=======
+
+
+### About Us
+- we are from sec C 
+- WE are here to make our project
+
+>>>>>>> ca584583309fe003f87849fec851f4eeb2850d38
 
 ### Sakshi image
 ![My Image](myimage.png)
