@@ -71,4 +71,6 @@ Welcome to my GitHub Profile!
 ### About Us
 - we are from sec C 
 - WE are here to make our project
-!newimage(C:\Users\VEDANTI\OneDrive\Desktop\GitHubProfile\VedantiRamde\newimage.png)
+
+### image
+![My Profile Image](profile.png)
