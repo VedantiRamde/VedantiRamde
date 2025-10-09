@@ -50,6 +50,7 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 - [LinkedIn](#)  
 - [Email](mailto:your.email@example.com)  
 
+
 This is my GitHub profile README file!
 
 | Name  | Skill     |
@@ -67,3 +68,6 @@ Welcome to my GitHub Profile!
 - HTML & CSS
 - Git & GitHub
 
+### About Us
+- we are from sec C 
+- WE are here to make our project
