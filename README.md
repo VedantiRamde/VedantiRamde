@@ -14,8 +14,6 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 ## 📊 GitHub Stats  
 ![Vedanti's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedantiRamde&show_icons=true&theme=radical)  
 
----
-
 
 ---
 
