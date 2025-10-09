@@ -57,7 +57,7 @@ Welcome to my GitHub Profile!
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Us
 - [GitHub](https://github.com/VedantiRamde)  
 - [LinkedIn](#)  
 - [Email](mailto:your.email@example.com)  
