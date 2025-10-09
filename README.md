@@ -26,6 +26,15 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 - 🔥 [Fire Detection System](#)
 ---
 
+# 👋 Hi, I’m Sakshi
+
+Welcome to my GitHub Profile!
+
+## 🔧 Skills
+- Python
+- HTML & CSS
+- Git & GitHub
+
 ## 🌟 Projects (by Sakshi)
 - 🎬 Theatre Ticket Booking System  
 - 🌐 SNMP Network Monitoring Project  
@@ -58,14 +67,7 @@ This is my GitHub profile README file!
 | Vedanti | HTML   |
 
 
-# 👋 Hi, I’m Sakshi
 
-Welcome to my GitHub Profile!
-
-## 🔧 Skills
-- Python
-- HTML & CSS
-- Git & GitHub
 
 ### About Us
 - we are from sec C 
