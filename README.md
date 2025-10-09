@@ -70,22 +70,6 @@ This is my GitHub profile README file!
 | Sakshi| Python    |
 | Vedanti | HTML   |
 
-<<<<<<< HEAD
-=======
-
-<<<<<<< HEAD
-###  Vedanti Image
-![My Profile Image](profile.png)
-=======
-
-
-### About Us
-- we are from sec C 
-- WE are here to make our project
-
->>>>>>> ca584583309fe003f87849fec851f4eeb2850d38
-
->>>>>>> 4ed2cdb7070efde1363ee0307a62a4a7e3d1b64c
 ### Sakshi image
 ![My Image](myimage.png)
 
