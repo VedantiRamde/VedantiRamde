@@ -62,14 +62,6 @@ Welcome to my GitHub Profile!
 - [LinkedIn](#)  
 - [Email](mailto:your.email@example.com)  
 
-
-This is my GitHub profile README file!
-
-| Name  | Skill     |
-|-------|-----------|
-| Sakshi| Python    |
-| Vedanti | HTML   |
-
 ### Sakshi image
 ![My Image](myimage.png)
 
