@@ -67,12 +67,6 @@ This is my GitHub profile README file!
 | Vedanti | HTML   |
 
 
-
-
-### About Us
-- we are from sec C 
-- WE are here to make our project
-
 ###  Vedanti Image
 ![My Profile Image](profile.png)
 
