@@ -17,7 +17,8 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 ---
 
 ## 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=VedantiRamde&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=VedantiRamde&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
