@@ -21,6 +21,13 @@ I'm a passionate Full Stack Developer exploring AI & IoT.
 - 🎬 [Theatre Booking System](#)  
 - 🔥 [Fire Detection System](#)
 
+### 🦋Instreated In
+- 🎨 Passionate about Frontend Development  
+- 💻 Love building responsive and interactive web pages  
+- 🌈 Interested in UI/UX design and modern frameworks like React  
+- 🧠 Exploring creative ways to make the web more beautiful and user-friendly  
+
+
 ###  Vedanti Image
 ![My Profile Image](profile.png)
 
